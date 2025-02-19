@@ -1,0 +1,52 @@
+[
+    {
+        "orga": "Université XYZ",
+        "organisationRéférente": null,
+        "manager": null
+    },
+    {
+        "orga": "Faculté des Sciences",
+        "organisationRéférente": "Université XYZ",
+        "managerID": 1
+    },
+    {
+        "orga": "Département de Physique",
+        "organisationRéférente": "Faculté des Sciences",
+        "managerID": 2
+    },
+    {
+        "orga": "Département de Mathématiques",
+        "organisationRéférente": "Faculté des Sciences",
+        "managerID": 6
+    },
+    {
+        "orga": "Faculté des Lettres",
+        "organisationRéférente": "Université XYZ",
+        "managerID": 7
+    },
+    {
+        "orga": "Département de Littérature",
+        "organisationRéférente": "Faculté des Lettres",
+        "managerID": 8
+    },
+    {
+        "orga": "Département de Linguistique",
+        "organisationRéférente": "Faculté des Lettres",
+        "managerID": 30
+    },
+    {
+        "orga": "Faculté des Sciences Sociales",
+        "organisationRéférente": "Université XYZ",
+        "managerID": 32
+    },
+    {
+        "orga": "Département de Sociologie",
+        "organisationRéférente": "Faculté des Sciences Sociales",
+        "managerID": 40
+    },
+    {
+        "orga": "Département de Psychologie",
+        "organisationRéférente": "Faculté des Sciences Sociales",
+        "managerID": 35
+    }
+]
