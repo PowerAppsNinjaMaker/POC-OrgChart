@@ -1,50 +1,60 @@
 [
     {
+        "id":1,
         "orga": "Université XYZ",
         "organisationRéférente": null,
         "manager": null
     },
     {
+        "id":2,
         "orga": "Faculté des Sciences",
         "organisationRéférente": "Université XYZ",
         "managerID": 1
     },
     {
+        "id":3,
         "orga": "Département de Physique",
         "organisationRéférente": "Faculté des Sciences",
         "managerID": 2
     },
     {
+        "id":4,
         "orga": "Département de Mathématiques",
         "organisationRéférente": "Faculté des Sciences",
         "managerID": 6
     },
     {
+        "id":5,
         "orga": "Faculté des Lettres",
         "organisationRéférente": "Université XYZ",
         "managerID": 7
     },
     {
+        "id":6,
         "orga": "Département de Littérature",
         "organisationRéférente": "Faculté des Lettres",
         "managerID": 8
     },
     {
+        "id":7,
         "orga": "Département de Linguistique",
         "organisationRéférente": "Faculté des Lettres",
         "managerID": 30
     },
     {
+        "id":8,
         "orga": "Faculté des Sciences Sociales",
         "organisationRéférente": "Université XYZ",
         "managerID": 32
     },
     {
+        "id":9,
         "orga": "Département de Sociologie",
         "organisationRéférente": "Faculté des Sciences Sociales",
         "managerID": 40
     },
     {
+        "id":10,
         "orga": "Département de Psychologie",
         "organisationRéférente": "Faculté des Sciences Sociales",
         "managerID": 35
